@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-News
+Disallow: /search*
+
+#Baiduspider
+User-agent: Baiduspider
+Disallow: /
+
+#Yandex
+User-agent: Yandex
+Disallow: /
+
+#Majestic
+User-agent: MJ12bot
+Disallow: /
+

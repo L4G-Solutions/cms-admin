@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+	<mappers>
+		<mapper resource="com/andromeda/cms/model/Article-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/PhotoGallery-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/Category-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/SubCategory-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/Cartoon-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/Horoscope-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/RedirectionUrl-MyBatis.xml" />
+		
+		<mapper resource="com/andromeda/cms/sitemap/model/SitemapDate-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/sitemap/model/SitemapLocation-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/sitemap/model/SitemapPostLocation-MyBatis.xml" />
+		
+		<mapper resource="com/andromeda/migration/model/ArticleStatus-MyBatis.xml" />
+		
+		<mapper resource="com/andromeda/cms/commons/model/CommonQueries-MyBatis.xml" />
+		
+		<mapper resource="com/andromeda/cms/model/CJCategory-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/CJSubCategory-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/CJArticle-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/model/CJPhotoGallery-MyBatis.xml" />
+		
+		<mapper resource="com/andromeda/cms/sitemap/model/CJSitemapDate-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/sitemap/model/CJSitemapLocation-MyBatis.xml" />
+		<mapper resource="com/andromeda/cms/sitemap/model/CJSitemapPostLocation-MyBatis.xml" />
+
+	</mappers>
+</configuration>

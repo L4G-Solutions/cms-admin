@@ -1,0 +1,18 @@
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+		<url>
+			<loc>https://stg.chitrajyothy.com/2021/videos/music-director-kaala-bhairava-about-jr-ntr-36986.html</loc>
+		<video:video>
+			<video:title><![CDATA[తారక్ తో అలా ఉండడానికి కారణం అదే]]></video:title>
+			<video:publication_date>2022-12-11T08:11:32+05:30</video:publication_date>
+			<video:description><![CDATA[తారక్ తో అలా ఉండడానికి కారణం అదే]]></video:description>
+			<video:category>Videos</video:category>
+  				<video:tag>Cinema Videos</video:tag>
+			<video:player_loc allow_embed="yes">https://www.youtube.com/embed/7PQqkQttdTQ</video:player_loc>
+		<video:width>480</video:width>
+		<video:height>270</video:height>
+		<video:family_friendly>yes</video:family_friendly>
+		<video:uploader info="https://stg.chitrajyothy.com">Chitrajyothy</video:uploader>
+			<video:thumbnail_loc>https://www.chitrajyothy.com/assets/images/defaultImg.jpeg</video:thumbnail_loc>
+		</video:video>
+		</url>
+</urlset>
